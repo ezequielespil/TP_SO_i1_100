@@ -1,4 +1,3 @@
 # TP_SO_i1_100
-
 BETA: Rios Guillermo IP: 190.112.177.51 Hora: 12:25
-Hola
+GAMMA: Varela Vargas Leandro Gastón IP: 192.168.0.20 Hora: 12:35
